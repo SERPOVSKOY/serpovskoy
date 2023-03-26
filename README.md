@@ -1,6 +1,5 @@
 # Front-end developer
 
-Aleksei Serpovskoi
 
 ![JS](https://img.shields.io/badge/JavaScript-444?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/React-444?style=for-the-badge&logo=React)
