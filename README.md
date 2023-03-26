@@ -1,4 +1,3 @@
-# School DevTime
+# Front-end developer
 
-
-Проекты учеников
+Aleksei Serpovskoi
